@@ -1,28 +1,27 @@
 # 🏦 NovaBank
 
-A Java-based console banking application that simulates basic banking operations. Users can create accounts, deposit and withdraw money, check balances, search for accounts, and save account details to CSV files.
+A Java Banking Management System developed using Object-Oriented Programming principles.
 
-## ✨ Features
+## Features
 
-- Create Bank Account
-- View All Accounts
-- Search Account
+- Create Account
 - Deposit Money
 - Withdraw Money
-- Check Balance
-- Save Accounts to CSV
-- Menu-Driven Console Interface
+- Search Account
+- View All Accounts
+- CSV Storage
+- Menu Driven CLI
 
-## 🛠 Technologies Used
+## Technologies
 
 - Java
-- Object-Oriented Programming (OOP)
-- Collections (ArrayList)
-- File Handling (CSV)
+- OOP
+- Collections
+- File Handling
 - IntelliJ IDEA
-- Git & GitHub
+- Git
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 app
@@ -32,6 +31,13 @@ service
 util
 ```
 
-## 👨‍💻 Author
+## Future Improvements
 
-**Tejas Solanki**
+- Savings & Current Accounts
+- Transaction History
+- Interest Calculation
+- JavaFX GUI
+
+## Author
+
+Tejas Solanki
